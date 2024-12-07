@@ -5,3 +5,4 @@ Dine-Intel is a generative AI-powered platform designed to help food businesses 
 
 
 
+<img width="1467" alt="Homepage" src="https://github.com/user-attachments/assets/096a98fc-1c28-4865-be2f-7ec23b860f00">
