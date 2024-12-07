@@ -9,6 +9,10 @@ Project Summary
 ----------------------------------------------------------------------------------------------------------------------------------
 Dine-Intel is an AI-powered platform designed to empower food businesses in downtown San Jose by providing actionable recommendations for staffing, advertising, and marketing while allowing customers to view real-time foot traffic trends. My contributions included developing the generative AI system, implementing NLP for analyzing foot traffic data, and building an intuitive Streamlit dashboard for business owners. A key challenge was ensuring the platform’s usability for non-technical users while maintaining accurate and relevant insights, which required iterative testing and refinement. By optimizing operations and making advanced analytics accessible to small business owners, Dine-Intel addresses the social issue of supporting local businesses in highly competitive urban environments, fostering economic growth and community engagement.
 
+The Dine-Intel Team
+
+<img width="548" alt="Screenshot 2024-12-07 at 3 29 17 PM" src="https://github.com/user-attachments/assets/a0abc77b-61de-4ee6-9645-e244595c0246">
+
 ----------------------------------------------------------------------------------------------------------------------------------
 Dine-Intel: What Is It?
 ----------------------------------------------------------------------------------------------------------------------------------
