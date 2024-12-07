@@ -65,7 +65,7 @@ Customer-Facing Foot Traffic Data
 Allows customers to view foot traffic trends for all restaurants in the area.
 Enhances customer satisfaction by helping them plan their visits more effectively.
 
-[!([![Group Photo](https://github.com/harshilp0103/picture-holder/blob/main/Group%20Photo.png)](https://www.youtube.com/watch?v=wDSLVaIFUTQ))](https://youtu.be/_SNbjBcwjc0)
+[![Dine-Intel]())](https://youtu.be/_SNbjBcwjc0)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 Why It Matters
