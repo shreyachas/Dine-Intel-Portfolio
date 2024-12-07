@@ -50,6 +50,8 @@ Customer-Facing Foot Traffic Data
 Allows customers to view foot traffic trends for all restaurants in the area.
 Enhances customer satisfaction by helping them plan their visits more effectively.
 
+
+
 Why It Matters
 
 Dine-Intel empowers small business owners by bridging the gap between data analysis and practical decision-making. It reduces operational inefficiencies, supports better customer experiences, and creates a competitive edge in the bustling downtown San Jose food scene. Future iterations aim to scale the platform for other urban markets and industries.
