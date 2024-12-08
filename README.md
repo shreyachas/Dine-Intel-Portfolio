@@ -65,6 +65,8 @@ Customer-Facing Foot Traffic Data
 Allows customers to view foot traffic trends for all restaurants in the area.
 Enhances customer satisfaction by helping them plan their visits more effectively.
 
+Demo Video: 
+
 [![Dine-Intel](https://github.com/shreyachas/Dine-Intel-Portfolio/blob/main/final%20logo.png)](https://youtu.be/_SNbjBcwjc0)
 
 ----------------------------------------------------------------------------------------------------------------------------------
