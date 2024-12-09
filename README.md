@@ -76,5 +76,7 @@ Dine-Intel empowers small business owners by bridging the gap between data analy
 
 This AI-driven platform is a one-stop solution for food businesses looking to grow, innovate, and succeed.
 
+(This text was refined using ChatGPT)
+
 
 
