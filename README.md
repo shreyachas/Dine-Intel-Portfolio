@@ -14,14 +14,6 @@ The Dine-Intel Team
 <img width="548" alt="Screenshot 2024-12-07 at 3 29 17 PM" src="https://github.com/user-attachments/assets/a0abc77b-61de-4ee6-9645-e244595c0246">
 
 ----------------------------------------------------------------------------------------------------------------------------------
-Dine-Intel: What Is It?
-----------------------------------------------------------------------------------------------------------------------------------
-
-Dine-Intel (short for "Dining Intelligence") is designed to support business owners in optimizing their operations and marketing strategies. The platform combines advanced AI tools with practical solutions to deliver actionable insights and enhance customer engagement.
-
-The name Dine-Intel reflects the platform's mission: leveraging intelligent data to empower food businesses to make informed decisions.
-
-----------------------------------------------------------------------------------------------------------------------------------
 Overview
 ----------------------------------------------------------------------------------------------------------------------------------
 Dine-Intel: AI-Powered Insights for Downtown San Jose Food Businesses
